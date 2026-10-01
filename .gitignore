@@ -1,0 +1,13 @@
+# Compiled binaries
+*.o
+*.out
+tiled_matmul
+
+# CUDA profiling
+*.nvprof
+*.nsys-rep
+*.ncu-rep
+
+# IDE
+.vscode/
+.idea/
